@@ -10,6 +10,8 @@ disqusShortname = "" # Optional, add Disqus shortname for comments
 SectionPagesMenu = "menu" # Enable menu system for lazy bloggers
 footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
 
+publishDir = "docs"
+
 pygmentsUseClassic = true #使用pygment 确保安全好pygment并且有pygmentize命令
 pygmentsCodefences = true #代码栅栏
 pygmentsCodefencesGuessSyntax = true #自动判断语言
