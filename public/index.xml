@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ONEGEE</title>
+    <link>https://onegee.github.io/</link>
+    <description>Recent content on ONEGEE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 19 Oct 2017 16:53:45 +0800</lastBuildDate>
+    
+	<atom:link href="https://onegee.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TestUpdata</title>
+      <link>https://onegee.github.io/post/testupdata/</link>
+      <pubDate>Thu, 19 Oct 2017 16:53:45 +0800</pubDate>
+      
+      <guid>https://onegee.github.io/post/testupdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helloworld</title>
+      <link>https://onegee.github.io/post/helloworld/</link>
+      <pubDate>Thu, 19 Oct 2017 14:09:13 +0800</pubDate>
+      
+      <guid>https://onegee.github.io/post/helloworld/</guid>
+      <description>Hello, here I am.</description>
+    </item>
+    
+  </channel>
+</rss>
