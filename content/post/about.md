@@ -1,11 +1,11 @@
 +++
 title = "About"
-date = 2017-10-19T14:09:13+08:00
+date = 2017-10-18
 description = "平面设计师，现入坑前端"
-draft = true
+draft = false
 toc = false
 menu = "About"
-weight = 2
+weight = 3
 
 +++
 
