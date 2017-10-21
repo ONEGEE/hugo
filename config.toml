@@ -51,7 +51,7 @@ enableEmoji = true # enable Emoji use :emoji_name:
   name = "About"
   weight = 2
   identifier = "about"
-  url = "post/about"
+  url = "/post/about"
 
 # keywords = [
 #  "blog",
