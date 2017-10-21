@@ -21,6 +21,8 @@ tags: [blog, 博客, markdown, git, github pages, coding pages, segemtfault, 简
 
 本来只是想搭建一个博客让自己凌乱的笔记显得正常和体面一些，但是被网上各种各样的技术带入各种坑位，本着不折腾不会死的态度全部通关一遍，于是便有了此文。我尝试了10个目前比较流行的搭建博客的方式，通过搭建的技术门槛和颜值等分别做简单介绍，如果你正准备搭建一个博客，能够比较直观的了解目前流行的技术和最终的实现效果，帮助你做出适合自己的选择。（本文偏向技术类博客，但也适用其他工种）
 
+<!--more-->
+
 :warning: 本文多图预警，没有详细的博客安装教程，安装请查看官方文档或自行摆渡**xx教程、xx一键包**。
 
 ---
@@ -58,8 +60,7 @@ tags: [blog, 博客, markdown, git, github pages, coding pages, segemtfault, 简
 - 功能： Markdown / 标签 / 评论 / 智能目录
 - :lipstick: 颜值：正常 / 简洁
 
-<img src="https://ws4.sinaimg.cn/large/006tKfTcly1fkk34th9foj31kw1ijne4.jpg" alt="segmentfault" width="780px">
-
+<img src="https://ws4.sinaimg.cn/large/006tKfTcly1fkk34th9foj31kw1ijne4.jpg" alt="segmentfault" width="100%">
 
 
 #### 2) [简书](http://www.jianshu.com/) :+1:
@@ -68,9 +69,9 @@ tags: [blog, 博客, markdown, git, github pages, coding pages, segemtfault, 简
 - 功能：Markdown / 评论 / 标签
 - :lipstick: 颜值：正常 / 干净
 
-<img src="https://ws1.sinaimg.cn/large/006tKfTcly1fkk4w40v4sj31kw0t4n47.jpg" alt="jianshu article list" width="780px">
+<img src="https://ws1.sinaimg.cn/large/006tKfTcly1fkk4w40v4sj31kw0t4n47.jpg" alt="jianshu article list" width="100%">
 
-<img src="https://ws2.sinaimg.cn/large/006tKfTcly1fkk4w91rw8j31kw1l5wnj.jpg" alt="jianshu artical content" width="780px">
+<img src="https://ws2.sinaimg.cn/large/006tKfTcly1fkk4w91rw8j31kw1l5wnj.jpg" alt="jianshu artical content" width="100%">
 
 
 #### 3) [知乎](https://www.zhihu.com/)
@@ -79,7 +80,7 @@ tags: [blog, 博客, markdown, git, github pages, coding pages, segemtfault, 简
 - 功能：Markdown / 评论 / 标签
 - :lipstick: 颜值：正常 / 大气
 
-<img src="https://ws1.sinaimg.cn/large/006tKfTcly1fkk3popy90j31kw1oa480.jpg" alt="zhihu" width="780px">
+<img src="https://ws1.sinaimg.cn/large/006tKfTcly1fkk3popy90j31kw1oa480.jpg" alt="zhihu" width="100%">
 
 
 
@@ -90,7 +91,7 @@ tags: [blog, 博客, markdown, git, github pages, coding pages, segemtfault, 简
 - 功能：Markdown / 评论 / 标签 / 皮肤 / 老式文章管理
 - :lipstick: 颜值：不卸妆的话还能看，卸妆就...
 
-<img src="https://ws1.sinaimg.cn/large/006tKfTcly1fkk4x9dhclj31kw0qx7dv.jpg" alt="csdn" width="780px">
+<img src="https://ws1.sinaimg.cn/large/006tKfTcly1fkk4x9dhclj31kw0qx7dv.jpg" alt="csdn" width="100%">
 
 
 #### 5) [博客园](https://www.cnblogs.com/)
@@ -99,7 +100,7 @@ tags: [blog, 博客, markdown, git, github pages, coding pages, segemtfault, 简
 - 功能：Markdown / 评论 / 标签 / 老式文章管理 / RSS / 年代感皮肤 / 相册 / 文件
 - :lipstick: 颜值：Logo可以有不止3种Word渐变色3D投影展示，老得有味道
 
-<img src="https://ws4.sinaimg.cn/large/006tKfTcly1fkk5mcy351j31kw1dlh26.jpg" alt="cnblogs" width="780px">
+<img src="https://ws4.sinaimg.cn/large/006tKfTcly1fkk5mcy351j31kw1dlh26.jpg" alt="cnblogs" width="100%">
 
 
 注册形式的博客还有许多老牌供应商，如网易，新浪和搜狐博客等，有些可能已经不维护了，而且大多定位也不是技术类博客，这里就不介绍了。注册形式的博客当然还可以申请微信订阅号，或者在知乎、StackOverFlow或Quora等问答平台写以答案的形式，甚至百度贴吧搭楼也可以，**虽然是不正经的博客，但确是正经的写博客初衷**。
@@ -126,36 +127,36 @@ tags: [blog, 博客, markdown, git, github pages, coding pages, segemtfault, 简
 
 #### 6) [hexo](https://hexo.io/zh-cn/) :+1::+1:
 
-- 基于Node技术实现快速生成，Github代码库12k
+- 基于Node技术实现快速生成，Github代码库12k+
 - 安装过程一路流畅，没有波折，配置、发布人性化，十分贴心
 - 社区活跃，对技术不熟且英文不要的人非常友好
 - :lipstick: [主题](https://hexo.io/themes/)155+，高颜值
 
-<img src="https://ws2.sinaimg.cn/large/006tKfTcly1fkmsvpdp4pj31kw1lmb29.jpg" alt="hexo default" width="780px">
+<img src="https://ws2.sinaimg.cn/large/006tKfTcly1fkmsvpdp4pj31kw1lmb29.jpg" alt="hexo default" width="100%">
 
-<img src="https://ws4.sinaimg.cn/large/006tKfTcly1fkmsw2sog9j31kw0trgqm.jpg" alt="hexo theme" width="780px">
+<img src="https://ws4.sinaimg.cn/large/006tKfTcly1fkmsw2sog9j31kw0trgqm.jpg" alt="hexo theme" width="100%">
 
 
 #### 7) [hugo](http://gohugo.io/) :+1:
 
-- 基于GO语言实现，极速生成网站，Github代码库11k
+- 基于GO语言实现，极速生成网站，Github代码库11k+
 - 安装配置十分流畅，但是在部署发布时遇到一点坎坷（需要了解一点Shell脚本
 - 相对来说中文不是很友好，中文社区不是很活跃
 - :lipstick: [主题](https://themes.gohugo.io/)670+，品位和颜值
 
-<img src="https://ws1.sinaimg.cn/large/006tKfTcly1fkmt94x4ynj31kw0xznpe.jpg" alt="hugo default" width="780px">
+<img src="https://ws1.sinaimg.cn/large/006tKfTcly1fkmt94x4ynj31kw0xznpe.jpg" alt="hugo default" width="100%">
 
-<img src="https://ws2.sinaimg.cn/large/006tKfTcly1fkmt9h7d0nj31kw0t4gq7.jpg" alt="hugo theme" width="780px">
+<img src="https://ws2.sinaimg.cn/large/006tKfTcly1fkmt9h7d0nj31kw0t4gq7.jpg" alt="hugo theme" width="100%">
 
 
 #### 8) [jekyll](http://jekyll.com.cn/)
 
-- 基础Ruby实现，Github官方推荐亲儿子，Github代码库30k
+- 基础Ruby实现，Github官方推荐亲儿子，Github代码库30k+
 - 因为有后台，所以可以任性不依赖本地环境配置，直接在网站上生成
 - 本地环境配置上有一些坑位，高级但是不友好（反正我是踩坑了
 - :lipstick: [主题](http://jekyllthemes.org/)只能说正常，总有一种不是官方在维护皮肤的感觉
 
-<img src="https://ws3.sinaimg.cn/large/006tKfTcly1fkmtptf7mlj31kw0t4tfb.jpg" alt="jekyll" width="780px">
+<img src="https://ws3.sinaimg.cn/large/006tKfTcly1fkmtptf7mlj31kw0t4tfb.jpg" alt="jekyll" width="100%">
 
 
 - 以上的3种技术的配置流程和搭建思路大同小异，彼此之间都提供低成本迁移办法
@@ -183,11 +184,11 @@ tags: [blog, 博客, markdown, git, github pages, coding pages, segemtfault, 简
 - 中文最友好了，服务器镜像5分钟搭建网站，一键包安装也是轻松带微笑
 - :lipstick: [颜值](https://wordpress.org/themes)中上，形式非常丰富，可以适合各类工种的需求
 
-<img src="https://ws2.sinaimg.cn/large/006tKfTcly1fkmvnqimqxj31kw21jnpe.jpg" alt="wordpress dafault" width="780px">
+<img src="https://ws2.sinaimg.cn/large/006tKfTcly1fkmvnqimqxj31kw21jnpe.jpg" alt="wordpress dafault" width="100%">
 
-<img src="https://ws1.sinaimg.cn/large/006tKfTcly1fkmvnyk58oj31kw0uvqch.jpg" alt="wordpress console" width="780px">
+<img src="https://ws1.sinaimg.cn/large/006tKfTcly1fkmvnyk58oj31kw0uvqch.jpg" alt="wordpress console" width="100%">
 
-<img src="https://ws2.sinaimg.cn/large/006tKfTcly1fkmvo26sgvj31kw16ojwh.jpg" alt="wordpress theme" width="780px">
+<img src="https://ws2.sinaimg.cn/large/006tKfTcly1fkmvo26sgvj31kw16ojwh.jpg" alt="wordpress theme" width="100%">
 
 #### 10) [ghost](https://ghost.org/)
 
@@ -197,9 +198,9 @@ tags: [blog, 博客, markdown, git, github pages, coding pages, segemtfault, 简
 - 有一定的搭建门槛，我用一键包也踩了很多坑位，花了**90分钟**才搭建完成
 - :lipstick: [颜值](http://marketplace.ghost.org/)是所有例子中最高的，好评
 
-<img src="https://ws3.sinaimg.cn/large/006tKfTcly1fkmw8q87sqj31kw0uzwje.jpg" alt="ghost default" width="780px">
+<img src="https://ws3.sinaimg.cn/large/006tKfTcly1fkmw8q87sqj31kw0uzwje.jpg" alt="ghost default" width="100%">
 
-<img src="https://ws1.sinaimg.cn/large/006tKfTcly1fkmw8svw13j31kw0t4wlq.jpg" alt="ghost console" width="780px">
+<img src="https://ws1.sinaimg.cn/large/006tKfTcly1fkmw8svw13j31kw0t4wlq.jpg" alt="ghost console" width="100%">
 
 
 内容管理系统博客虽然重，但是整体来看比较省心，一次配置完即可以在后台界面实现各种操作，虽然要花一些时间了解技术门槛知识、花点费用去配置服务器，但是一劳永逸（花钱的会比较用心维护是真的），推荐给有频繁更新、多人维护等需求的人。

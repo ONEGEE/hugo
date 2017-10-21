@@ -1,11 +1,17 @@
 <article itemscope itemtype="http://schema.org/CreativeWork">
   <header>
-    <h2 itemprop="name">
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    </h2>
-    {{ if eq .Type "post" }}
-      <p class="muted">{{ partial "post/meta.html" . }}</p>
-    {{ end }}
+    <div class="grid">
+      <div class="cell -9of12">
+        <h2 itemprop="name">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h2>
+      </div>
+      <div class="cell -3of12">
+        {{ if eq .Type "post" }}
+          <p class="muted">{{ partial "post/meta.html" . }}</p>
+        {{ end }}
+      </div>
+    </div>
   </header>
   {{ if .Description }}
     <blockquote itemprop="headline">{{ .Description }}</blockquote>

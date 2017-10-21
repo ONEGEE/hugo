@@ -25,6 +25,7 @@
       <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
     {{ end }}
     <link rel="canonical" href="{{ .Permalink }}">
+    <script src="/js/baffle.min.js"></script>
     {{ if (isset .Params "prev") }}
       <link rel="prev" href="{{ .Params.prev }}">
     {{ end }}

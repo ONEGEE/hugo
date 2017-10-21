@@ -1,3 +1,5 @@
+.highlight{border-radius: 3px}
+.highlight pre{padding: 10px 15px;margin-top: 15px;margin-bottom: 15px;border-radius: 3px}
 .highlight,pre.highlight{background:#282c34;color:#abb2bf}
 .highlight pre{background:#282c34}.highlight .ge{font-style:italic}
 .highlight .gs{font-weight:700}.highlight .ow{font-weight:700}

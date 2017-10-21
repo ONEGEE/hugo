@@ -37,19 +37,29 @@ blockquote cite::before {
 :target {
   color: #fff;
 }
+
+
 /* hack.css overrides and enhancements */
+
+
 .hack li ul {
   margin: 0;
 }
 .main {
   padding: 20px 10px;
 }
+
+header > nav{
+  font-size: 1.2rem;
+}
+
 nav a.active {
   background-color: #ff2e88;
   color: #fff;
 }
 a[itemprop="url"] {
   color: #ff9800;
+  padding: 0px 5px;
 }
 a[itemprop="url"]:hover {
   color: #fff;
@@ -66,7 +76,7 @@ html {
   font-size: 13px;
 }
 .hack pre {
-  font-size: 17px;
+  font-size: 1rem;
 }
 article [itemprop="description"] {
   margin-bottom: 20px;
